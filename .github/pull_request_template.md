@@ -1,6 +1,7 @@
 ## 🛰️ Issue Number
 
 ## 🪐 작업 내용
+<!-- Pull Request 할 때, 마지막에 관련 이슈 closed 해주세요. ex) close #10 -->
 
 ## 📚 Reference
 
